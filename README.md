@@ -13,4 +13,4 @@ https://lusummers.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by lu Summers
 
-# ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc 
